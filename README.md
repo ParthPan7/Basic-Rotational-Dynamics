@@ -28,7 +28,7 @@ _Corollary :_
 Since, assumption is being drawn for our case that there isn't any Physical link (thought we can draw virtual radius from centre to pivot point) exist between centre of imaginary circle drawn covering hypothetical circular trajectory and pivot point. Therefore, external force should have to be exterted exactly at Pivot point lying on that vary object (refer _figure 1_).      
 
 
-
+![Torque Image](https://github.com/ParthPan7/Basic-Rotational-Dynamics/blob/main/Torque_Representation_Fig1.png)
 _figure 1 : Torque pictorial representation_
 
 _figure 1_ depicts that force is being applied at angle ![formula](https://render.githubusercontent.com/render/math?math=\phi) yielding vertical force component ![formula](https://render.githubusercontent.com/render/math?math=F.sin\phi ) at pivot point covering radial distance ![formula](https://render.githubusercontent.com/render/math?math=\iota).
@@ -81,6 +81,13 @@ Here,
 ![formula](https://render.githubusercontent.com/render/math?math=R) is a radial distance from centre to pivot point.
 
 ![formula](https://render.githubusercontent.com/render/math?math=x_{origin}) and ![formula](https://render.githubusercontent.com/render/math?math=y_{origin}) forming an axial position to carry out rotation around.
+
+**Uniform Circular Motion Output**
+
+![](https://github.com/ParthPan7/Basic-Rotational-Dynamics/blob/main/RotationalMechanicsResult.gif) 
+
+_figure 2 : rotation under ideal condition assuming no gravity or air resistance is acting_
+
 
 **References**
 
