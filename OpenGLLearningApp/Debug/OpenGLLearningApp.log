@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\parth\Documents\openGL\Basic-Rotational-Dynamics\OpenGLLearningApp\main.cpp(179,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGLLearningApp.vcxproj -> C:\Users\parth\Documents\openGL\Basic-Rotational-Dynamics\Debug\OpenGLLearningApp.exe
